@@ -1,4 +1,4 @@
-## Omnifood Website 
-# Technologies:
-# -HTML
-# -CSS
+# Omnifood Website 
+## Technologies:
+ -HTML
+ -CSS
